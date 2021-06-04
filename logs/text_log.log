@@ -1,0 +1,40 @@
+14:59:11.100 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 769
+14:59:11.600 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 500
+14:59:11.615 [pool-2-thread-2] INFO  by.task.komar.state.impl.EndState - Ship 2 has completed work.
+14:59:11.615 [pool-2-thread-1] INFO  by.task.komar.state.impl.ReceptionState - Ship 1 is unloading.
+14:59:11.615 [pool-2-thread-1] INFO  by.task.komar.entity.Port - Number of containers after loading: ship 1 = 0; port = 663
+14:59:12.100 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 663
+14:59:12.603 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 663
+14:59:12.619 [pool-2-thread-1] INFO  by.task.komar.state.impl.EndState - Ship 1 has completed work.
+15:04:11.783 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 600
+15:04:11.783 [main] INFO  by.task.komar.entity.Port - Create port by.task.komar.entity.Port@71def8f8
+15:04:11.798 [pool-2-thread-1] INFO  by.task.komar.state.impl.WaitingState - Ship 1 with 147 containers is in queue. Ship status is unloaded.
+15:04:11.798 [pool-2-thread-5] INFO  by.task.komar.state.impl.WaitingState - Ship 5 with 20 containers is in queue. Ship status is unloaded.
+15:04:11.798 [pool-2-thread-3] INFO  by.task.komar.state.impl.WaitingState - Ship 3 with 398 containers is in queue. Ship status is unloaded.
+15:04:11.798 [pool-2-thread-2] INFO  by.task.komar.state.impl.WaitingState - Ship 2 with 15 containers is in queue. Ship status is unloaded.
+15:04:11.798 [pool-2-thread-4] INFO  by.task.komar.state.impl.WaitingState - Ship 4 with 87 containers is in queue. Ship status is loaded.
+15:04:11.798 [pool-2-thread-1] INFO  by.task.komar.state.impl.ReceptionState - Ship 1 is unloading.
+15:04:11.798 [pool-2-thread-1] INFO  by.task.komar.entity.Port - Number of containers after loading: ship 1 = 0; port = 747
+15:04:12.283 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 747
+15:04:12.789 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 747
+15:04:12.805 [pool-2-thread-1] INFO  by.task.komar.state.impl.EndState - Ship 1 has completed work.
+15:04:12.805 [pool-2-thread-5] INFO  by.task.komar.state.impl.ReceptionState - Ship 5 is unloading.
+15:04:12.805 [pool-2-thread-5] INFO  by.task.komar.entity.Port - Number of containers after loading: ship 5 = 0; port = 767
+15:04:13.291 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 767
+15:04:13.798 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 500
+15:04:13.814 [pool-2-thread-3] INFO  by.task.komar.state.impl.ReceptionState - Ship 3 is unloading.
+15:04:13.814 [pool-2-thread-5] INFO  by.task.komar.state.impl.EndState - Ship 5 has completed work.
+15:04:13.814 [pool-2-thread-3] INFO  by.task.komar.entity.Port - Number of containers after loading: ship 3 = 0; port = 898
+15:04:14.298 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 898
+15:04:14.810 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 500
+15:04:14.826 [pool-2-thread-3] INFO  by.task.komar.state.impl.EndState - Ship 3 has completed work.
+15:04:14.826 [pool-2-thread-2] INFO  by.task.komar.state.impl.ReceptionState - Ship 2 is unloading.
+15:04:14.826 [pool-2-thread-2] INFO  by.task.komar.entity.Port - Number of containers after loading: ship 2 = 0; port = 515
+15:04:15.314 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 515
+15:04:15.823 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 515
+15:04:15.838 [pool-2-thread-2] INFO  by.task.komar.state.impl.EndState - Ship 2 has completed work.
+15:04:15.838 [pool-2-thread-4] INFO  by.task.komar.state.impl.ReceptionState - Ship 4 is loading.
+15:04:15.838 [pool-2-thread-4] INFO  by.task.komar.entity.Port - Number of containers after loading: ship 4 = 572; port = 0
+15:04:16.335 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 0
+15:04:16.849 [pool-2-thread-4] INFO  by.task.komar.state.impl.EndState - Ship 4 has completed work.
+15:04:16.849 [Timer-0] INFO  by.task.komar.entity.Port - Number of containers in port = 500
